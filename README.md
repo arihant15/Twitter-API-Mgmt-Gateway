@@ -12,11 +12,11 @@ Client Interface:
 
 Pre-Requisite to Run App:
 
-1. Twitter Application created
+1. Twitter Application created.
 
-2. Apache Tomcat
+2. Apache Tomcat.
 
-3. A browser that supports iframes
+3. A browser that supports iframes.
 
 Instructions to Run:
 
