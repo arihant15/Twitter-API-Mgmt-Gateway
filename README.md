@@ -2,7 +2,7 @@
 
 Simple Twitter API Gateway Function
 
-* Application developed as a Java Web Application using Spring Framework and Twitter4j API
+* Application developed as a Java Web Application using Spring Framework and Twitter4j API.
 
 Client Interface:
 * Twitter Login
